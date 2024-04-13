@@ -122,10 +122,7 @@ nav .menu{
   background: white;
   color: black;
 }
-.footer{
-  color: black;
-  text-align: center;
-}
-.footer p{
+footer{
+  background-color: black;
   color: white;
 }
