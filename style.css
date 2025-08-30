@@ -61,7 +61,7 @@ nav .menu{
   background-size: cover;
   background-position: center;
   position: relative;
-  filter: brightness(50%);
+  filter: brightness(85%);
 }
 .img::before{
   content: '';
